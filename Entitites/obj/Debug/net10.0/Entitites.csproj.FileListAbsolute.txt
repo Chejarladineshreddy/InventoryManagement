@@ -1,0 +1,14 @@
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\bin\Debug\net10.0\Entitites.deps.json
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\bin\Debug\net10.0\Entitites.runtimeconfig.json
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\bin\Debug\net10.0\Entitites.dll
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\bin\Debug\net10.0\Entitites.pdb
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\obj\Debug\net10.0\Entitites.csproj.AssemblyReference.cache
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\obj\Debug\net10.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\obj\Debug\net10.0\Entitites.AssemblyInfoInputs.cache
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\obj\Debug\net10.0\Entitites.AssemblyInfo.cs
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\obj\Debug\net10.0\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\obj\Debug\net10.0\Entitites.dll
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\obj\Debug\net10.0\refint\Entitites.dll
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\obj\Debug\net10.0\Entitites.pdb
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\obj\Debug\net10.0\Entitites.genruntimeconfig.cache
+C:\Users\Dines\source\repos\InventoryManagement\Entitites\obj\Debug\net10.0\ref\Entitites.dll
