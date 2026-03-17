@@ -1,7 +1,0 @@
-<Solution>
-  <Folder Name="/Solution Items/">
-    <File Path=".editorconfig" />
-  </Folder>
-  <Project Path="Entitites/Entitites.csproj" />
-  <Project Path="InventoryManagement/InventoryManagement.csproj" />
-</Solution>
