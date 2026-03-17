@@ -1,5 +1,6 @@
 /.vs
 /Configurations/obj
-
+/Entitites/bin
 /Entitites/obj
 /InventoryManagement/bin
+/InventoryManagement/obj
